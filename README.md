@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kyaw-Min-lwin
 - I’m interested in contributing to open source projects.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on frotend related projects.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on backend projects that use django or flask.
 - 📫 My email is kyawminlwinprogrammer@gmail.com.
 
 <!---
